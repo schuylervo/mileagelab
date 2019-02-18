@@ -11,7 +11,11 @@
 <h3>
 <p> Don't get stranded on the road with an empty gas tank!</p>
 <p> Use our handy dandy calculator to find out how many miles you can drive on a tank of gasoline. </p>
+<p> Or, add two numbers together. </p>
+<p> Or, create your own story by filling in the blanks. </p>
 </h3>
-<a href="/mileage-form" >Run mileage calculations</a>
+<p> <a href="/mileage-form" >Run mileage calculations</a> </p>
+<p> <a href="/add-form" >Add numbers together</a> </p>
+<p> <a href="/madlib-form" >Have fun with mad libs!</a> </p>
 </body>
 </html>
